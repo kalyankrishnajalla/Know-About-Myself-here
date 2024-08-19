@@ -4,7 +4,7 @@
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 my medium profile:- **medium.com/@jkkrishna0803**
-my linkedIn profile:- **https://in.linkedin.com/in/kalyankrishnadataanalyst** 
+my linkedIn profile:- **https://www.linkedin.com/in/kalyankrishnadataengineer/** 
 
 <!---
 kalyankrishnajalla/kalyankrishnajalla is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
